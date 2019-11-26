@@ -1,9 +1,4 @@
-def greeting
-  puts "Hello World"
+def say_hello_world_ten_times
+  hi = "Hello World!"
+  puts hi
 end
- 
-greeting
-greeting
-greeting
-greeting
-greeting
